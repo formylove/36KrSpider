@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: beautifulscraper
+Version: 1.1.0
+Summary: Python web-scraping library that wraps urllib2 and BeautifulSoup.
+Home-page: https://github.com/adregner/beautifulscraper
+Author: Andrew Regner
+Author-email: andrew@aregner.com
+License: MIT
+Description: Simple wraper around BeautifulSoup for HTML parsing and urllib2 for HTTP(S) request/response handling.  BeautifulScraper also overrides some of the default handlers in urllib2 in order to: handle cookies properly, offer full control of included cookies, and return the actual response from the server, un-mangled and not reprocessed
+Platform: UNKNOWN
